@@ -1,5 +1,5 @@
 {
   "version": "1.2.3",
-  "download_url": "https://github.com/SMS-COOLRAY126/ProjectNexus-Releases/releases/download/v1.2.2-beta.1/ProjectNexus-1.2.2-beta.1.zip",
-  "changelog": "Sinum log now writes to launcher folder instead of C:\\Temp."
+  "download_url": "https://github.com/SMS-COOLRAY126/ProjectNexus-Releases/releases/download/v1.2.3-beta.1/ProjectNexus-1.2.3-beta.1.zip",
+  "changelog": "Updated Sinum DLL for game server compatibility."
 }
