@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/SMS-COOLRAY126/ProjectNexus-Releases/releases/download/v1.2.3-beta.1/ProjectNexus-1.2.3-beta.1.zip",
-  "changelog": "Updated Sinum DLL for game server compatibility."
+  "version": "1.2.4",
+  "download_url": "https://github.com/SMS-COOLRAY126/ProjectNexus-Releases/releases/download/v1.2.4-beta.1/LunaLauncher-v1.2.4-beta.zip",
+  "changelog": "Fix auto-updater not applying updates."
 }
